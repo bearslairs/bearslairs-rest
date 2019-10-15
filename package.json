@@ -1,0 +1,21 @@
+{
+  "name": "bearslairs-rest",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bearslairs/bearslairs-rest.git"
+  },
+  "keywords": [],
+  "author": "Rob Thijssen",
+  "engines": {
+    "node": "10.16.3"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "mongoose": "^5.7.3"
+  }
+}
